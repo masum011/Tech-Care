@@ -1,5 +1,7 @@
 # Tech Care
 
+🌐 **Live Demo:** https://techcareservices.netlify.app/
+
 Tech Care is a responsive service booking website built with React and Vite. Customers can book repair and maintenance services online, and booking requests are delivered directly via EmailJS.
 
 ## Features
@@ -21,21 +23,9 @@ Tech Care is a responsive service booking website built with React and Vite. Cus
 
 ## Installation
 
-Clone the repository:
-
 ```bash
 git clone <repository-url>
-```
-
-Navigate to the project directory:
-
-```bash
 cd tech-care
-```
-
-Install dependencies:
-
-```bash
 npm install
 ```
 
@@ -45,24 +35,13 @@ npm install
 npm run dev
 ```
 
-The application will be available at:
-
-```txt
-http://localhost:5173
-```
-Deploy link:
-
-```txt
-http://localhost:5173
-```
-
 ## Build for Production
 
 ```bash
 npm run build
 ```
 
-Preview the production build:
+## Preview Production Build
 
 ```bash
 npm run preview
@@ -71,10 +50,10 @@ npm run preview
 ## Available Scripts
 
 ```bash
-npm run dev      # Start development server
-npm run build    # Create production build
-npm run preview  # Preview production build
-npm run lint     # Run ESLint
+npm run dev
+npm run build
+npm run preview
+npm run lint
 ```
 
 ## Booking Workflow
