@@ -50,6 +50,11 @@ The application will be available at:
 ```txt
 http://localhost:5173
 ```
+Deploy link:
+
+```txt
+http://localhost:5173
+```
 
 ## Build for Production
 
